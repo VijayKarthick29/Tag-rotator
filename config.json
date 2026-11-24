@@ -1,0 +1,7 @@
+{
+  "token": "",
+  "admin_token": "",
+  "interval_seconds": 60,
+  "shuffle": false,
+  "target_guild_id": ""
+}
